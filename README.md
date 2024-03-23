@@ -1,2 +1,2 @@
-# projeler
-Tüm projelerin olduğu dosya
+# Projeler Dosyası
+Tüm projelerimin olduğu ana dosya
